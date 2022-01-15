@@ -1,4 +1,4 @@
-# massDeleteDiscordDM
+# Discord-MassDeleteDirectMessages
 
 Script not created by me, but it lacks any real documentation.
 Also this makes it easier for me to find it again.
