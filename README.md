@@ -16,3 +16,5 @@ Inspect element>Console
 
 Paste content of script and run.
 It will throw an error when trying to delete other members messages, this is expected.
+
+This script is unmaintained and may suddenly stop working.
